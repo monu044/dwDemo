@@ -1,8 +1,6 @@
 package com.monu.example.service;
 
 import com.google.inject.Inject;
-import com.monu.example.configuration.DemoConfiguration;
-import lombok.AllArgsConstructor;
 
 public class HelloService {
     private String template;
